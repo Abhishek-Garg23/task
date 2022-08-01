@@ -29,10 +29,7 @@ body {
     color: #FCA61F;
     font-weight: bold;
   }
-
-  span {
-    color: #FCA61F;
-  }
+  
   
   p::before {
     display: inline;
