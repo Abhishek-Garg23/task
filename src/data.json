@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1, 
+        "name": "Novesh Garg", 
+        "age": 24, 
+        "email":"novesh@gmail.com", 
+        "phone":"9806944875", 
+        "course":"MSC", 
+        "address": {
+            "addressLine1": "RZ/H-48", 
+            "addressLine2": "West Sagar Pur", 
+            "city": "New Delhi", 
+            "postalCode": 110046, 
+            "country": "India"
+        }
+    }
+]
